@@ -1,7 +1,7 @@
 {
   "name": "beepee",
   "version": "2.0.0",
-  "description": "beeping module for tryout",
+  "description": "beeping module for trying out npm modules",
   "main": "index.js",
   "bin": {
     "beep": "cli.js"
