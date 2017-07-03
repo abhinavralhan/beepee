@@ -1,6 +1,6 @@
 {
   "name": "beepee",
-  "version": "2.0.0",
+  "version": "2.0.1",
   "description": "beeping module for trying out npm modules",
   "main": "index.js",
   "bin": {
@@ -20,8 +20,11 @@
     "colors": "^1.1.2",
     "inquirer": "3.1.1"
   },
-  "files": ["cli.js", "index.js"],
+  "files": [
+    "cli.js",
+    "index.js"
+  ],
   "bugs": {
-	"url": "https://github.com/abhinavralhan/beepee/issues"
+    "url": "https://github.com/abhinavralhan/beepee/issues"
   }
 }
